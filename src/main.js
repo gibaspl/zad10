@@ -1,7 +1,7 @@
 import './style.css';
 import { format } from 'date-fns';
 
-const API_URL = 'https://lqxbwwuaxbcwwkuehwxv.supabase.co';
+const API_URL = 'https://lqxbwwuaxbcwwkuehwxv.supabase.co/rest/v1/article';
 const API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxxeGJ3d3VheGJjd3drdWVod3h2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDg2ODkwMDUsImV4cCI6MjA2NDI2NTAwNX0.SV446WM4wIZkQ4vUGaCOSACXpsAYCes-QeyhLIChJ6w';
 
 
